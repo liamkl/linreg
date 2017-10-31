@@ -1,4 +1,4 @@
-#' Linear regression
+#' Liam's Special Linear regression
 #'
 #' Runs an OLS regression not unlike \code{\link{lm}}
 #'

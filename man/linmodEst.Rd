@@ -2,7 +2,7 @@
 % Please edit documentation in R/lin_reg.R
 \name{linmodEst}
 \alias{linmodEst}
-\title{Linear regression}
+\title{Liam's Special Linear regression}
 \usage{
 linmodEst(x, y)
 }
