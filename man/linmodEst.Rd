@@ -15,7 +15,7 @@ linmodEst(x, y)
 A list with 4 elements: coefficients, vcov, sigma, df
 }
 \description{
-Runs an OLS regression not unlike \code{\link{lm}}
+Runs an OLS regression not unlike \code{\link{lm}}, except slower
 }
 \examples{
 data(mtcars)

@@ -1,6 +1,6 @@
 #' Liam's Special Linear regression
 #'
-#' Runs an OLS regression not unlike \code{\link{lm}}
+#' Runs an OLS regression not unlike \code{\link{lm}}, except slower
 #'
 #' @param y response vector (1 x n)
 #' @param X covariate matrix (p x n) with no intercept
